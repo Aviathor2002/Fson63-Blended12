@@ -1,0 +1,17 @@
+body {
+  background-color: brown;
+}
+.slider {
+  width: 1000px;
+  height: 400px;
+  margin: 0 auto;
+  .slider-item {
+    background-color: aqua;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    text-transform: uppercase;
+  }
+}
